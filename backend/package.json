@@ -42,7 +42,7 @@
     "pdf-parse": "^1.1.1",
     "pg": "^8.11.3",
     "reflect-metadata": "^0.2.2",
-    "typeorm": "^0.3.20",
+    "typeorm": "^0.3.26",
     "zod": "^3.22.4"
   },
   "devDependencies": {
