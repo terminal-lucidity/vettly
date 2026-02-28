@@ -18,7 +18,7 @@
     "update:jobs": "node scripts/update-job-data.js"
   },
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.848.0",
+    "@aws-sdk/client-s3": "^3.995.0",
     "@types/cors": "^2.8.17",
     "@types/express": "^4.17.21",
     "@types/node": "^20.11.24",
