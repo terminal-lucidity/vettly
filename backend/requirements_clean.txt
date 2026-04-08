@@ -9,7 +9,7 @@ requests==2.33.0
 
 # ML and AI libraries
 torch==2.8.0
-transformers==4.53.3
+transformers==5.0.0rc3
 sentence-transformers==5.0.0
 
 # Data processing
