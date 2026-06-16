@@ -9,6 +9,6 @@ pandas>=2.0.0
 scipy>=1.14.0
 requests>=2.31.0
 pydantic>=2.5.0
-python-multipart>=0.0.6
+python-multipart>=0.0.31
 torch>=2.0.0
 transformers>=4.35.0 
